@@ -1,5 +1,6 @@
 if you had one shot one opportunety thing that everything you want it
 you better lose yourself
+<<<<<<< HEAD
 
 
 if you had one shot one opportunety thing that everything you want it
@@ -7,3 +8,6 @@ you better lose yourself
 
 
 hey wahts your name
+=======
+the moment
+>>>>>>> 50e0653b08e1470d1822cee89ec9e5b7be6a6177
